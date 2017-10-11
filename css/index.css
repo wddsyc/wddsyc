@@ -31,7 +31,7 @@
   .header {
     width: 100%;
     margin: auto;
-    position: absolute;
+    position: fixed;
     background: rgba(255, 255, 255, .9);
   }
   

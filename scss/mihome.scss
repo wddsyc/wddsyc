@@ -32,6 +32,7 @@ body {
         background: rgba(255, 255, 255, .8);
         @extend %headerfont;
         line-height: 2;
+        
         .logo {
             height: $logo;
             width: $logo;
